@@ -48,9 +48,7 @@ npm run serve
 
 Accede a la aplicación en tu navegador:
 
-```http request
 http://localhost:8080
-```
 
 ### Demo
 https://youtu.be/mmcV2Q-PMRw
